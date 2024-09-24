@@ -29,8 +29,16 @@ Do działania skryptu wymagane są następujące biblioteki:
 - `beautifulsoup4`
 - `pyfiglet`
 - `colorama`
+  
 
 Można je zainstalować, używając poniższego polecenia:
 
 ```bash
 pip install -r requirements.txt
+
+```
+## Jak uruchomić?
+- python scrap.py
+- Podaj adres URL strony startowej w formacie http://www.ehaker.pl
+- Określ maksymalną liczbę podstron do odwiedzenia.
+- Skrypt pobierze słowa ze strony i zapisze je do pliku tekstowego.
