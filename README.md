@@ -1,7 +1,7 @@
 # Scrap.py - Narzędzie do pobierania słów ze stron internetowych
 
 ## Autor
-Stworzone przez Przemysław Szmaj | [www.ehaker.pl](https://www.ehaker.pl)
+Stworzone przez Przemysław Szmaj z wykorzystaniem AI | [www.ehaker.pl](https://www.ehaker.pl)
 
 ## Opis
 
