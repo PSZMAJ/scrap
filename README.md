@@ -19,7 +19,7 @@ Skrypt automatycznie obsługuje podany URL, dodając protokół (np. `https://`)
 ## Odpowiedzialność 
 
 
-- **Autor nie ponosi odpowiedzialności za jakiekolwiek nielegalne lub niewłaściwe użycie tego narzędzia. Narzędzie zostało stworzone wyłącznie do celów edukacyjnych oraz legalnych testów bezpieczeństwa, np. w ramach testów penetracyjnych na własnych zasobach lub za wyraźną zgodą właściciela witryny. Użycie tego narzędzia do działań sprzecznych z prawem może naruszać przepisy dotyczące prywatności, prawa autorskiego i innych regulacji prawnych.
+- Autor nie ponosi odpowiedzialności za jakiekolwiek nielegalne lub niewłaściwe użycie tego narzędzia. Narzędzie zostało stworzone wyłącznie do celów edukacyjnych oraz legalnych testów bezpieczeństwa, np. w ramach testów penetracyjnych na własnych zasobach lub za wyraźną zgodą właściciela witryny. Użycie tego narzędzia do działań sprzecznych z prawem może naruszać przepisy dotyczące prywatności, prawa autorskiego i innych regulacji prawnych.
 
 ## Wymagania
 
