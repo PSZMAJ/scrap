@@ -34,7 +34,7 @@ Do działania skryptu wymagane są następujące biblioteki:
 Można je zainstalować, używając poniższego polecenia:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 ```
 ## Jak uruchomić?
