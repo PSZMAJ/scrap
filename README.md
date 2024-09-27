@@ -29,6 +29,13 @@ Do działania skryptu wymagane są następujące biblioteki:
 - `beautifulsoup4`
 - `pyfiglet`
 - `colorama`
+
+Można je zainstalować, używając poniższego polecenia:
+
+```bash
+pip install -r requirements.txt
+
+````
 Aczkolwiek w systemie Kali Linux, powinny być one zainstalowane domyślnie.
 
 ## Jak uruchomić?
