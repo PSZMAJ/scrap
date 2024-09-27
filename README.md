@@ -29,14 +29,8 @@ Do działania skryptu wymagane są następujące biblioteki:
 - `beautifulsoup4`
 - `pyfiglet`
 - `colorama`
-  
+Aczkolwiek w systemie Kali Linux, powinny być one zainstalowane domyślnie.
 
-Można je zainstalować, używając poniższego polecenia:
-
-```bash
-pip3 install -r requirements.txt
-
-```
 ## Jak uruchomić?
 - python scrap.py
 - Podaj adres URL strony startowej w formacie http://www.ehaker.pl
