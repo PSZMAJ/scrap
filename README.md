@@ -39,7 +39,7 @@ pip install -r requirements.txt
 Aczkolwiek w systemie Kali Linux, powinny być one zainstalowane domyślnie.
 
 ## Jak uruchomić?
-- python scrap.py
+- python3 scrap.py
 - Podaj adres URL strony startowej w formacie http://www.ehaker.pl
 - Określ maksymalną liczbę podstron do odwiedzenia.
 - Skrypt pobierze słowa ze strony i zapisze je do pliku tekstowego.
